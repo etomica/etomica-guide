@@ -11,6 +11,7 @@ Welcome to Etomica's documentation!
    :caption: Contents:
 
    gettingstarted
+   simple-simulations
 
 
 
